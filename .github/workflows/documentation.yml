@@ -61,15 +61,10 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: _site
+          path: _site
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
-        
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./_site
-          destination: ./_site
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
