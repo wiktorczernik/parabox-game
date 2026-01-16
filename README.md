@@ -16,6 +16,10 @@ Find your way as a lost worker and get out of this place.
 
 [![IMAGE ALT TEXT HERE](./Docs/assets/trailerpreview.png)](https://www.youtube.com/watch?v=9D5PGLqXbr8)
 
+## Links
+- [Itch.io](https://wiktorczernik.github.io/parabox-game/index.html)
+- [Documentation](https://wiktorczernik.github.io/parabox-game/index.html)
+
 ## How to get started
 1. Install Unity 6000.3.4f1
 2. Open the project
