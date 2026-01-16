@@ -14,7 +14,7 @@ Find your way as a lost worker and get out of this place.
 
 ## Gameplay Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9D5PGLqXbr8?si=06kxlkmOIb1aiZaf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](./Docs/assets/trailerpreview.png)](https://www.youtube.com/watch?v=9D5PGLqXbr8)
 
 ## How to get started
 1. Install Unity 6000.3.4f1
