@@ -9,6 +9,7 @@ permissions:
   content: write
   pages: write
   id-token: write
+  
 
 jobs:
   # Build the documentation
